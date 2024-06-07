@@ -9,7 +9,7 @@
 </h1>
 
 <h4 align="center">
-YouTunnel est un outil de téléchargement de vidéos en ligne gratuit et polyvalent pour les vidéos YouTube. Il vous permet de télécharger des vidéos dans toutes les qualités et formats disponibles. Vous pouvez choisir la qualité vidéo de 144p à 4K, en fonction de la qualité d'origine.
+YoutubeMP3 Facile est un outil de téléchargement de vidéos en ligne gratuit et polyvalent pour les vidéos YouTube. Il vous permet de télécharger des vidéos dans toutes les qualités et formats disponibles. Vous pouvez choisir la qualité vidéo de 144p à 4K, en fonction de la qualité d'origine.
 </h4>
 
 <br>
