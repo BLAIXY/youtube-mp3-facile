@@ -1,15 +1,15 @@
 <h1 align="center">
    <br>
    <a href="https://youtunnel.vercel.app/">
-    <img src="./assets/images/tl.webp" alt="YouTunnel" width="200">
+    <img src="./assets/images/tl.webp" alt="YoutubeMP3 Facile" width="200">
    </a>
    <br>
-   <a href="https://youtunnel.vercel.app/">YouTunnel!</a><br>
+   <a href="https://youtunnel.vercel.app/">YoutubeMP3 Facile!</a><br>
 
 </h1>
 
 <h4 align="center">
-YouTunnel is a free and versatile online video downloader tool for YouTube videos. It lets you download videos in all available qualities and formats. You can choose the video quality from 144p to 4K, depending on the original quality.
+YouTunnel est un outil de téléchargement de vidéos en ligne gratuit et polyvalent pour les vidéos YouTube. Il vous permet de télécharger des vidéos dans toutes les qualités et formats disponibles. Vous pouvez choisir la qualité vidéo de 144p à 4K, en fonction de la qualité d'origine.
 </h4>
 
 <br>
@@ -18,27 +18,22 @@ YouTunnel is a free and versatile online video downloader tool for YouTube video
 
 <br>
 
-# `❓` How to Use?
+# `❓` Comment l'utiliser?
 
-1. Copy the URL of the video you want to download
-2. Paste the URL into the YouTunnel search bar
-3. Click your preferred format and quality from the list of available
-4. From the newly opened window, press `ctrl` + `s`
+1. Copiez l'URL de la vidéo que vous souhaitez télécharger
+2. Collez l'URL dans la barre de recherche YouTunnel
+3. Cliquez sur votre format et votre qualité préférés dans la liste des formats disponibles
+4. Dans la fenêtre de redirection, appuyez sur `ctrl` + `s`
 
 <br>
 
-# `❤️` Support
+# `❤️` Soutien
 
-Show your support by 🌟 Starring this repo or buy me a coffee!
+Montrez votre soutien en 🌟 Mettant une étoile sur ce repo ou faites un don !
 <br><br>
-<a href="https://www.buymeacoffee.com/harrytom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><br>
-<br>
-
-# `🛡️` Licence
-
-Refer [LICENSE](LICENCE) for details
+<a href="https://www.buymeacoffee.com/blaixy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><br>
 
 <hr>
 <p align= "center">
-Made with ❤️ by <a href="https://harrytom.netlify.app/">Harry </a>
+Réalisé avec amour par <a href="https://www.youtube.com/channel/UCg96KcULibjpt_7Dg3rquTQ">BLAIXY </a>
 </p>
