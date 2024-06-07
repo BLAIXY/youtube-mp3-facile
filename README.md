@@ -14,7 +14,7 @@ YoutubeMP3 Facile est un outil de téléchargement de vidéos en ligne gratuit e
 
 <br>
 
-<img src="./assets/images/banner.png">
+<img src="./assets/images/banner1.png">
 
 <br>
 
